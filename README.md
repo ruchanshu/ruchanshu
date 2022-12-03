@@ -5,7 +5,7 @@ class Ruchanshu(Human):
   
     self.likes = ["Video Games", "Movies", "Long Drives"]
     self.dislikes = ["Wrangling with indentation", "Recursive functions",
-      "The cold"]
+      "Test cases"]
 
     self.pronouns = ["he/him"]
 
